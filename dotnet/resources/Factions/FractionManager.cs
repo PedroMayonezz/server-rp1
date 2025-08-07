@@ -1,0 +1,1 @@
+// FractionManager.cs - placeholder content

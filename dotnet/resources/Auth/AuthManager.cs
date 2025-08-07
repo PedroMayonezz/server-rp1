@@ -1,0 +1,1 @@
+// AuthManager.cs - placeholder content
